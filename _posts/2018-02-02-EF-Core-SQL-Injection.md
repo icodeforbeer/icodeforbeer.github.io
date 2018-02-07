@@ -1,4 +1,11 @@
-## Prevent SQL Injection in EF Core
+---
+layout: post
+title:  "Prevent SQL Injection in EF Core"
+date:   2018-02-02 16:16:01 -0600
+categories: Software Development
+tags:   [ EF, Entity Framework, SQL Injection, T-SQL ]
+---
+
 ### In-line SQL and EF Core
 EF Core has always supported direct SQL queries against databases like below. 
 ```csharp
