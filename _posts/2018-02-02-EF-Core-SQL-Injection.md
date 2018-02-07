@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Prevent SQL Injection in EF Core"
 date:   2018-02-02 16:16:01 -0600
 categories: Software Development
