@@ -3,12 +3,12 @@
     "short_name": "I Code For Beer",
     "icons": [
         {
-            "src": "/assets/images/icons/android-chrome-192x192.png?v=vMgynLplyx",
+            "src": "/assets/img/icons/android-chrome-192x192.png?v=vMgynLplyx",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/assets/images/icons/android-chrome-512x512.png?v=vMgynLplyx",
+            "src": "/assets/img/icons/android-chrome-512x512.png?v=vMgynLplyx",
             "sizes": "512x512",
             "type": "image/png"
         }
